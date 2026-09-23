@@ -89,4 +89,4 @@ HDI-Predictor
 
 ## Developed By
 
-Shaik Mahammad Mathin
+Kola Veera Venkata Siva Sowparnika
